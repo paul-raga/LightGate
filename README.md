@@ -1,6 +1,6 @@
 # LightGate v0.2
 
-Beta **UNTESTED** version of a LoRa custom packet transportation software. 
+Beta version of a LoRa custom packet transportation software. 
 
 This software is meant to run on a Linux machine, and is DEPENDENT ON THE FOLLOWING SOFTWARES and LIBRARIES: 
 
@@ -50,10 +50,10 @@ DEFAULT PACKET STRUCTURE:
 BUILD AND RUN: 
 
 _ clone the repository 
-$git clone -b Gate_v0.2 https://github.com/paulRagazziniUnicam/Gateway_0.0.1
+$git clone https://github.com/paul-raga/LightGate.git
 
 _ traverse to the cloned repository, create a build folder and traverse to it 
-$cd Gateway_0.0.1 
+$cd LightGate 
 $mkdir build
 $cd build 
 
