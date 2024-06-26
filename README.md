@@ -39,7 +39,7 @@ DEFAULT PACKET STRUCTURE:
 
  Sop: 2 B 
  
- Header: MAC Source Address 1 B, MAC Target Address 1 B, APP Source Address 1 B, APP Target Address 1 B, PAN ID 2 B, Options 1 B, RSSI LastHop 1 B, Sequence Number 1 B, Type 1 B, Length 1 B
+ Header: 11 B 
 
  Data: 0-255 B
 
